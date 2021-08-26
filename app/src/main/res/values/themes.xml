@@ -1,0 +1,4 @@
+<resources>
+
+    <style name="Theme.Iniciando" parent="@style/Theme.Leanback" />
+</resources>
